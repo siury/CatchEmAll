@@ -1,7 +1,8 @@
 # Gotta Catch Them All: Experimenting with Various Methods of Pokemon Image Classification
 I trained various Networks to classify Pokemon from a 7000 image dataset with 151 categories. Using methods like Batch Normalization, Data Augmentation and Tranformations, Transfer Learning, and Learnin Rate Scheduling. I trained multiple networks with test accuracies ranging from 58% to 80% on a 80/20 train test split dataset.
 
-VIDEO GOES HERE (probably): Record a 2-3 minute long video presenting your work. One option - take all your figures/example images/charts that you made for your website and put them in a slide deck, then record the video over zoom or some other recording platform (screen record using Quicktime on Mac OS works well). The video doesn't have to be particularly well produced or anything.
+Video Here:
+https://github.com/siury/CatchEmAll/blob/main/2021-12-14%2017-51-25.mp4
 
 ## Introduction
 ![final ex images from baseline](/img/base_final.png "final baseline model test images")
